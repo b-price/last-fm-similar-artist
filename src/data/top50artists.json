@@ -1,0 +1,1697 @@
+[
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+      },
+      "followers": {
+        "href": null,
+        "total": 93433
+      },
+      "genres": ["industrial metal", "industrial", "industrial rock", "sludge metal", "drone metal", "noise rock", "groove metal", "stoner metal", "drone", "ebm"],
+      "href": "https://api.spotify.com/v1/artists/5A4ebXQf38xWIq0xSWLhsS",
+      "id": "5A4ebXQf38xWIq0xSWLhsS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3e617b802484514cfdbc7b1b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051743e617b802484514cfdbc7b1b",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1783e617b802484514cfdbc7b1b",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Godflesh",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:5A4ebXQf38xWIq0xSWLhsS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+      },
+      "followers": {
+        "href": null,
+        "total": 4317241
+      },
+      "genres": ["thrash metal", "metal", "speed metal", "heavy metal", "groove metal", "death metal"],
+      "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+      "id": "1IQ2e1buppatiN1bxUVkrk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/8c81130db7b5f933412c4906c30327817f1e1b43",
+          "height": 667,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/643c0c72a9e44c2b65f0b9af158f525d55a15988",
+          "height": 427,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/c8b7671ef95a1b028a74fef6616111c3cd5c3039",
+          "height": 133,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/82cbdfac153cd29f35adca4f6d4aa8c5b40e9c22",
+          "height": 43,
+          "width": 64
+        }
+      ],
+      "name": "Slayer",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+      },
+      "followers": {
+        "href": null,
+        "total": 487058
+      },
+      "genres": ["death metal", "grindcore", "metal", "black metal"],
+      "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+      "id": "35jmO5o3AhUV70kiR7u4Nw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6516fa79653190466aed168a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051746516fa79653190466aed168a",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1786516fa79653190466aed168a",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Morbid Angel",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+      },
+      "followers": {
+        "href": null,
+        "total": 156068
+      },
+      "genres": ["drone", "ambient", "dark ambient", "idm", "experimental", "minimalism"],
+      "href": "https://api.spotify.com/v1/artists/1qiwaJwjKod5WhcYZ76O1B",
+      "id": "1qiwaJwjKod5WhcYZ76O1B",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174cd1bb3562720521214eb29d1",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178cd1bb3562720521214eb29d1",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Tim Hecker",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:1qiwaJwjKod5WhcYZ76O1B"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+      },
+      "followers": {
+        "href": null,
+        "total": 2224013
+      },
+      "genres": ["thrash metal", "groove metal", "metal", "death metal", "nu metal", "heavy metal", "speed metal", "alternative metal"],
+      "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+      "id": "6JW8wliOEwaDZ231ZY7cf4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb716f574b796045f28ce4f4f3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174716f574b796045f28ce4f4f3",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178716f574b796045f28ce4f4f3",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Sepultura",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+      },
+      "followers": {
+        "href": null,
+        "total": 1024150
+      },
+      "genres": ["death metal", "metal", "thrash metal", "grindcore", "melodic death metal", "black metal"],
+      "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+      "id": "4f5V3PQ66nIrBCqugJtaGn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/b1ad9718b69b4c75164d418bde0cf3aa1566ac92",
+          "height": 480,
+          "width": 720
+        },
+        {
+          "url": "https://i.scdn.co/image/9a0f1b399f5e272074b79f4efa3139cb2fce030e",
+          "height": 427,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/eb4ef3f579f7b740b56364bbb001fe03b57d8fd1",
+          "height": 133,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/e4a944052fabb382dd7454ee8133e93762626837",
+          "height": 43,
+          "width": 64
+        }
+      ],
+      "name": "Death",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV"
+      },
+      "followers": {
+        "href": null,
+        "total": 43893
+      },
+      "genres": ["sludge metal", "drone metal", "stoner metal", "noise rock", "doom metal", "drone"],
+      "href": "https://api.spotify.com/v1/artists/51yGpqOaCT6TlLzV3LefDV",
+      "id": "51yGpqOaCT6TlLzV3LefDV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6772690000c46c6e373fea76b20911692e0069",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6772690000dd226e373fea76b20911692e0069",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6772690000bac36e373fea76b20911692e0069",
+          "height": 200,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67726900008f746e373fea76b20911692e0069",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sumac",
+      "popularity": 28,
+      "type": "artist",
+      "uri": "spotify:artist:51yGpqOaCT6TlLzV3LefDV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+      },
+      "followers": {
+        "href": null,
+        "total": 55368
+      },
+      "genres": ["drone", "ambient", "space music"],
+      "href": "https://api.spotify.com/v1/artists/4G1ZsxfEEztbE1VcnNInPg",
+      "id": "4G1ZsxfEEztbE1VcnNInPg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/f49eb574a794ca2a155b36ad0d633fdb6cf15ff6",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/857b4bb75fcc051d0018e63908c3c2010b5b0734",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/73aa825dd3b9af8f6966bec14d8ffec20ac31214",
+          "height": 200,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/d635fe502458322edfb8726b718463b26f62ed49",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chihei Hatakeyama",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:4G1ZsxfEEztbE1VcnNInPg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+      },
+      "followers": {
+        "href": null,
+        "total": 13005633
+      },
+      "genres": ["nu metal", "metal", "alternative metal", "rap metal", "rock"],
+      "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+      "id": "5eAWCfyUhZtHHtBdNk56l1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "System Of A Down",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 122826
+      },
+      "genres": ["death metal", "grindcore", "metal"],
+      "href": "https://api.spotify.com/v1/artists/6hR8mUd2yyHFazoCuweiIJ",
+      "id": "6hR8mUd2yyHFazoCuweiIJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/7649c5b5cc12054bf2e1892a7a0caab37dd12ced",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/a5c273a7e17e8e2c5b0defd3797615c1fc91e3d8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/45777a6977b2650bf41ec97c921607277f076428",
+          "height": 200,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/08082c11753d1e18f2dafc0283fa3f555230b273",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Autopsy",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:6hR8mUd2yyHFazoCuweiIJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+      },
+      "followers": {
+        "href": null,
+        "total": 97494
+      },
+      "genres": ["grindcore", "mathcore", "sludge metal", "drone metal", "death metal"],
+      "href": "https://api.spotify.com/v1/artists/1i5rlthy5CmAYWaFOB0jhz",
+      "id": "1i5rlthy5CmAYWaFOB0jhz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b7a5112c93bfd159fe5909",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517492b7a5112c93bfd159fe5909",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17892b7a5112c93bfd159fe5909",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Full Of Hell",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify:artist:1i5rlthy5CmAYWaFOB0jhz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf"
+      },
+      "followers": {
+        "href": null,
+        "total": 79347
+      },
+      "genres": ["black metal", "avant-garde", "drone metal"],
+      "href": "https://api.spotify.com/v1/artists/0c0xIXQhCbmtvzM93liaSf",
+      "id": "0c0xIXQhCbmtvzM93liaSf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/029b877f7f45df775b0029c3d87de1fe3b01c169",
+          "height": 663,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/697b979bc77afceb7dcc667e9aab06bee4b1ceb9",
+          "height": 424,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/3c137ebe82f94a9cbaa243d1624fe139c6203bfc",
+          "height": 133,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/68f9c42bb787ecb0ba4ad16a4233087b297fc863",
+          "height": 42,
+          "width": 63
+        }
+      ],
+      "name": "Blut Aus Nord",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:0c0xIXQhCbmtvzM93liaSf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pICtPXy11dc7D82jsF1Xy"
+      },
+      "followers": {
+        "href": null,
+        "total": 28933
+      },
+      "genres": ["black metal", "avant-garde"],
+      "href": "https://api.spotify.com/v1/artists/7pICtPXy11dc7D82jsF1Xy",
+      "id": "7pICtPXy11dc7D82jsF1Xy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733716f7721e568d32c538d123",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023716f7721e568d32c538d123",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513716f7721e568d32c538d123",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Krallice",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:7pICtPXy11dc7D82jsF1Xy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+      },
+      "followers": {
+        "href": null,
+        "total": 1271603
+      },
+      "genres": ["shoegaze", "dream pop", "gothic rock", "post-punk"],
+      "href": "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+      "id": "5Wabl1lPdNOeIn0SQ5A1mp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517400f01cecce8a4475c3de0998",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17800f01cecce8a4475c3de0998",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Cocteau Twins",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+      },
+      "followers": {
+        "href": null,
+        "total": 68478
+      },
+      "genres": ["drone", "ambient", "glitch", "idm", "experimental", "minimalism"],
+      "href": "https://api.spotify.com/v1/artists/2DoQBgPsB9AdmWpIa2hUSz",
+      "id": "2DoQBgPsB9AdmWpIa2hUSz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1b80dcb0fe9de066bc28130e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051741b80dcb0fe9de066bc28130e",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1781b80dcb0fe9de066bc28130e",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Fennesz",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:2DoQBgPsB9AdmWpIa2hUSz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u"
+      },
+      "followers": {
+        "href": null,
+        "total": 90842
+      },
+      "genres": ["noise rock", "math rock", "post-hardcore"],
+      "href": "https://api.spotify.com/v1/artists/6I8R5MFTlez7rHCsH4cx0u",
+      "id": "6I8R5MFTlez7rHCsH4cx0u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdb0b00a6a975ed359cabdfe7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174db0b00a6a975ed359cabdfe7",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178db0b00a6a975ed359cabdfe7",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Shellac",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:6I8R5MFTlez7rHCsH4cx0u"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq"
+      },
+      "followers": {
+        "href": null,
+        "total": 6544
+      },
+      "genres": ["drone", "ambient", "dark ambient", "neoclassical"],
+      "href": "https://api.spotify.com/v1/artists/1iqn4OAlsj7UVYzIfNGctq",
+      "id": "1iqn4OAlsj7UVYzIfNGctq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb4c8d6cf0a2626384dbbc5dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174b4c8d6cf0a2626384dbbc5dc",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178b4c8d6cf0a2626384dbbc5dc",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Pjusk",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:1iqn4OAlsj7UVYzIfNGctq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+      },
+      "followers": {
+        "href": null,
+        "total": 89084
+      },
+      "genres": ["noise rock", "sludge metal", "drone metal"],
+      "href": "https://api.spotify.com/v1/artists/4yRSUmhuSJ3KcIMljdh4fH",
+      "id": "4yRSUmhuSJ3KcIMljdh4fH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eba351e3886f3d7d836ed69c23",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174a351e3886f3d7d836ed69c23",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178a351e3886f3d7d836ed69c23",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Chat Pile",
+      "popularity": 44,
+      "type": "artist",
+      "uri": "spotify:artist:4yRSUmhuSJ3KcIMljdh4fH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IRSrcFPOEhZgeNX5Ho0th"
+      },
+      "followers": {
+        "href": null,
+        "total": 4486
+      },
+      "genres": ["experimental hip hop"],
+      "href": "https://api.spotify.com/v1/artists/4IRSrcFPOEhZgeNX5Ho0th",
+      "id": "4IRSrcFPOEhZgeNX5Ho0th",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcb7829cf739763199fef4c27",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174cb7829cf739763199fef4c27",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178cb7829cf739763199fef4c27",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Infinity Knives",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:4IRSrcFPOEhZgeNX5Ho0th"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34HQ4MGMHnwjIjtvcBHLwi"
+      },
+      "followers": {
+        "href": null,
+        "total": 4139
+      },
+      "genres": ["grindcore", "mathcore"],
+      "href": "https://api.spotify.com/v1/artists/34HQ4MGMHnwjIjtvcBHLwi",
+      "id": "34HQ4MGMHnwjIjtvcBHLwi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0f56ce578705f42d505fca69",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051740f56ce578705f42d505fca69",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1780f56ce578705f42d505fca69",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Triac",
+      "popularity": 11,
+      "type": "artist",
+      "uri": "spotify:artist:34HQ4MGMHnwjIjtvcBHLwi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tEdQbmg3bKE6IjmH5hO9d"
+      },
+      "followers": {
+        "href": null,
+        "total": 49993
+      },
+      "genres": ["screamo", "mathcore", "post-hardcore", "emo", "grindcore", "noise rock"],
+      "href": "https://api.spotify.com/v1/artists/6tEdQbmg3bKE6IjmH5hO9d",
+      "id": "6tEdQbmg3bKE6IjmH5hO9d",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1843a827f650e35cbe79231",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1843a827f650e35cbe79231",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c1843a827f650e35cbe79231",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Orchid",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:6tEdQbmg3bKE6IjmH5hO9d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+      },
+      "followers": {
+        "href": null,
+        "total": 133060
+      },
+      "genres": ["ambient", "drone", "dark ambient", "minimalism", "space music"],
+      "href": "https://api.spotify.com/v1/artists/6u5axd0rpDsWSmzhFfb2VB",
+      "id": "6u5axd0rpDsWSmzhFfb2VB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6772690000c46cbe9041c25def0efe8dec6ec5",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6772690000dd22be9041c25def0efe8dec6ec5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6772690000bac3be9041c25def0efe8dec6ec5",
+          "height": 200,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67726900008f74be9041c25def0efe8dec6ec5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "William Basinski",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify:artist:6u5axd0rpDsWSmzhFfb2VB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
+      },
+      "followers": {
+        "href": null,
+        "total": 97328
+      },
+      "genres": ["sludge metal", "drone metal", "doom metal", "stoner metal", "drone"],
+      "href": "https://api.spotify.com/v1/artists/4KoZpKiPeX4jIi7Euwcfuo",
+      "id": "4KoZpKiPeX4jIi7Euwcfuo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb40b0465fe3765cb99e3d42cd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517440b0465fe3765cb99e3d42cd",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17840b0465fe3765cb99e3d42cd",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Thou",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:4KoZpKiPeX4jIi7Euwcfuo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46cAf9jkwRvcUWh0KsvekG"
+      },
+      "followers": {
+        "href": null,
+        "total": 4397
+      },
+      "genres": ["black metal", "drone metal"],
+      "href": "https://api.spotify.com/v1/artists/46cAf9jkwRvcUWh0KsvekG",
+      "id": "46cAf9jkwRvcUWh0KsvekG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb1382fa69b3f957f6767e8b1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174b1382fa69b3f957f6767e8b1",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178b1382fa69b3f957f6767e8b1",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Scarcity",
+      "popularity": 8,
+      "type": "artist",
+      "uri": "spotify:artist:46cAf9jkwRvcUWh0KsvekG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+      },
+      "followers": {
+        "href": null,
+        "total": 264094
+      },
+      "genres": ["melodic death metal", "death metal", "metal"],
+      "href": "https://api.spotify.com/v1/artists/6YXarbjg36ODFPez0PnOlD",
+      "id": "6YXarbjg36ODFPez0PnOlD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe05d57f89f3637d01858832f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174e05d57f89f3637d01858832f",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178e05d57f89f3637d01858832f",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "At The Gates",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:6YXarbjg36ODFPez0PnOlD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6s1hQzoXYdEjYdJiHbu1iZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 13408
+      },
+      "genres": ["death metal", "black metal"],
+      "href": "https://api.spotify.com/v1/artists/6s1hQzoXYdEjYdJiHbu1iZ",
+      "id": "6s1hQzoXYdEjYdJiHbu1iZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc8975475e50a3547f967e71a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174c8975475e50a3547f967e71a",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178c8975475e50a3547f967e71a",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Ulthar",
+      "popularity": 13,
+      "type": "artist",
+      "uri": "spotify:artist:6s1hQzoXYdEjYdJiHbu1iZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+      },
+      "followers": {
+        "href": null,
+        "total": 1273528
+      },
+      "genres": ["shoegaze", "dream pop", "slowcore"],
+      "href": "https://api.spotify.com/v1/artists/72X6FHxaShda0XeQw3vbeF",
+      "id": "72X6FHxaShda0XeQw3vbeF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb653481f50df3c11791d6132a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174653481f50df3c11791d6132a",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178653481f50df3c11791d6132a",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Slowdive",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6CUkovLJ3LDsmvIVM9LdC5"
+      },
+      "followers": {
+        "href": null,
+        "total": 1399
+      },
+      "genres": ["thrash metal", "speed metal", "death metal"],
+      "href": "https://api.spotify.com/v1/artists/6CUkovLJ3LDsmvIVM9LdC5",
+      "id": "6CUkovLJ3LDsmvIVM9LdC5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb07173d4ed566e3876c46331e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517407173d4ed566e3876c46331e",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17807173d4ed566e3876c46331e",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Nuclear Tomb",
+      "popularity": 4,
+      "type": "artist",
+      "uri": "spotify:artist:6CUkovLJ3LDsmvIVM9LdC5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0C3Qh4eVVKpw4tzzXBfwKh"
+      },
+      "followers": {
+        "href": null,
+        "total": 5720
+      },
+      "genres": ["art pop", "ambient folk", "experimental"],
+      "href": "https://api.spotify.com/v1/artists/0C3Qh4eVVKpw4tzzXBfwKh",
+      "id": "0C3Qh4eVVKpw4tzzXBfwKh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb06d24122d0bd0e9165177013",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517406d24122d0bd0e9165177013",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17806d24122d0bd0e9165177013",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Otay:onii",
+      "popularity": 14,
+      "type": "artist",
+      "uri": "spotify:artist:0C3Qh4eVVKpw4tzzXBfwKh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HUaFFb7vHJVzGAqwEBLJo"
+      },
+      "followers": {
+        "href": null,
+        "total": 26333
+      },
+      "genres": ["screamo", "mathcore", "noise rock", "post-hardcore", "emo"],
+      "href": "https://api.spotify.com/v1/artists/7HUaFFb7vHJVzGAqwEBLJo",
+      "id": "7HUaFFb7vHJVzGAqwEBLJo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd2a6906ac5b4923c823cf966",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174d2a6906ac5b4923c823cf966",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178d2a6906ac5b4923c823cf966",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Jeromes Dream",
+      "popularity": 27,
+      "type": "artist",
+      "uri": "spotify:artist:7HUaFFb7vHJVzGAqwEBLJo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4kRYDoAbgDL7nqeqZhJlA3"
+      },
+      "followers": {
+        "href": null,
+        "total": 64546
+      },
+      "genres": ["mathcore", "metalcore", "hardcore", "noise rock", "post-hardcore", "math rock", "hardcore punk"],
+      "href": "https://api.spotify.com/v1/artists/4kRYDoAbgDL7nqeqZhJlA3",
+      "id": "4kRYDoAbgDL7nqeqZhJlA3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebeaeeaec41de5d043eb3d6a3c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174eaeeaec41de5d043eb3d6a3c",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178eaeeaec41de5d043eb3d6a3c",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Botch",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:4kRYDoAbgDL7nqeqZhJlA3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+      },
+      "followers": {
+        "href": null,
+        "total": 830510
+      },
+      "genres": ["thrash metal", "speed metal", "metal", "groove metal", "heavy metal"],
+      "href": "https://api.spotify.com/v1/artists/3BM0EaYmkKWuPmmHFUTQHv",
+      "id": "3BM0EaYmkKWuPmmHFUTQHv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe0b534896c50cb2281b88fed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174e0b534896c50cb2281b88fed",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178e0b534896c50cb2281b88fed",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Kreator",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+      },
+      "followers": {
+        "href": null,
+        "total": 329832
+      },
+      "genres": ["noise rock", "post-rock", "industrial rock", "experimental", "industrial", "post-punk", "gothic rock", "avant-garde", "art rock", "drone", "drone metal"],
+      "href": "https://api.spotify.com/v1/artists/79S80ZWgVhIPMCHuvl6SkA",
+      "id": "79S80ZWgVhIPMCHuvl6SkA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe25ae69c1d10de369149a7f2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174e25ae69c1d10de369149a7f2",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178e25ae69c1d10de369149a7f2",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Swans",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:79S80ZWgVhIPMCHuvl6SkA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+      },
+      "followers": {
+        "href": null,
+        "total": 29887
+      },
+      "genres": ["noise rock", "mathcore", "sludge metal", "post-hardcore", "drone metal", "grindcore"],
+      "href": "https://api.spotify.com/v1/artists/3I33pakU01BuYZ5UyQ2A0i",
+      "id": "3I33pakU01BuYZ5UyQ2A0i",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd7658401045b1d974cd86e3f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174d7658401045b1d974cd86e3f",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178d7658401045b1d974cd86e3f",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "KEN Mode",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:3I33pakU01BuYZ5UyQ2A0i"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1zFGR4NaBbCDBGwifPKGfM"
+      },
+      "followers": {
+        "href": null,
+        "total": 52982
+      },
+      "genres": ["death metal", "grindcore"],
+      "href": "https://api.spotify.com/v1/artists/1zFGR4NaBbCDBGwifPKGfM",
+      "id": "1zFGR4NaBbCDBGwifPKGfM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738741191cc40dc87ffdde6288",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028741191cc40dc87ffdde6288",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518741191cc40dc87ffdde6288",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tomb Mold",
+      "popularity": 28,
+      "type": "artist",
+      "uri": "spotify:artist:1zFGR4NaBbCDBGwifPKGfM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ugpHBbGBeWmPqToT6s2K3"
+      },
+      "followers": {
+        "href": null,
+        "total": 12686
+      },
+      "genres": ["mathcore", "death metal", "avant-garde"],
+      "href": "https://api.spotify.com/v1/artists/3ugpHBbGBeWmPqToT6s2K3",
+      "id": "3ugpHBbGBeWmPqToT6s2K3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27317237c260b308a96ea6f4a76",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0217237c260b308a96ea6f4a76",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485117237c260b308a96ea6f4a76",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pyrrhon",
+      "popularity": 18,
+      "type": "artist",
+      "uri": "spotify:artist:3ugpHBbGBeWmPqToT6s2K3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2cxbAiboYa73BmjPJH9KU0"
+      },
+      "followers": {
+        "href": null,
+        "total": 6223
+      },
+      "genres": ["drone metal", "drone", "sludge metal", "space rock"],
+      "href": "https://api.spotify.com/v1/artists/2cxbAiboYa73BmjPJH9KU0",
+      "id": "2cxbAiboYa73BmjPJH9KU0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b1adb40d92f50e738799bd9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4f68604e42741953cb3da8c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a4f68604e42741953cb3da8c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Harvestman",
+      "popularity": 15,
+      "type": "artist",
+      "uri": "spotify:artist:2cxbAiboYa73BmjPJH9KU0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+      },
+      "followers": {
+        "href": null,
+        "total": 443136
+      },
+      "genres": ["death metal", "grindcore", "melodic death metal", "metal"],
+      "href": "https://api.spotify.com/v1/artists/5lhaM01nwvsMZpmPY2HVER",
+      "id": "5lhaM01nwvsMZpmPY2HVER",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf8ec9d92b03893c45fe4e1db",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174f8ec9d92b03893c45fe4e1db",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178f8ec9d92b03893c45fe4e1db",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Carcass",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:5lhaM01nwvsMZpmPY2HVER"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+      },
+      "followers": {
+        "href": null,
+        "total": 152368
+      },
+      "genres": ["sludge metal", "post-rock", "drone metal", "stoner metal", "progressive metal", "doom metal", "drone"],
+      "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+      "id": "2vsXeWGC8rILp3rpSN2Fyk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/10cab18501e3b00598e5464803d0de3654191ca4",
+          "height": 666,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/b064e3c3ac7e435d960b204dd3b5ee4b14397e46",
+          "height": 426,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/8defa30884f25a4dd08e84519de1c4c0bf995ff7",
+          "height": 133,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/5f96f357f0532978834d416845799cb616a39e33",
+          "height": 43,
+          "width": 64
+        }
+      ],
+      "name": "ISIS",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HpcvWfYc0YfemkivQvdHC"
+      },
+      "followers": {
+        "href": null,
+        "total": 1370
+      },
+      "genres": ["death metal"],
+      "href": "https://api.spotify.com/v1/artists/3HpcvWfYc0YfemkivQvdHC",
+      "id": "3HpcvWfYc0YfemkivQvdHC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27328201b1ecabe7b0f5a040942",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0228201b1ecabe7b0f5a040942",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485128201b1ecabe7b0f5a040942",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Anthropophagous",
+      "popularity": 3,
+      "type": "artist",
+      "uri": "spotify:artist:3HpcvWfYc0YfemkivQvdHC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5I4bpzP0gZSVwceopnaoVb"
+      },
+      "followers": {
+        "href": null,
+        "total": 32117
+      },
+      "genres": ["death metal", "doom metal", "sludge metal", "drone metal"],
+      "href": "https://api.spotify.com/v1/artists/5I4bpzP0gZSVwceopnaoVb",
+      "id": "5I4bpzP0gZSVwceopnaoVb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735acff962a09fc6c1ddffad94",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025acff962a09fc6c1ddffad94",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515acff962a09fc6c1ddffad94",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Spectral Voice",
+      "popularity": 19,
+      "type": "artist",
+      "uri": "spotify:artist:5I4bpzP0gZSVwceopnaoVb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56qcBxdPzc5hHbOaRjkip8"
+      },
+      "followers": {
+        "href": null,
+        "total": 300
+      },
+      "genres": ["doom metal", "sludge metal", "noise rock"],
+      "href": "https://api.spotify.com/v1/artists/56qcBxdPzc5hHbOaRjkip8",
+      "id": "56qcBxdPzc5hHbOaRjkip8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eba0067c1fa22f9328e31611ef",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174a0067c1fa22f9328e31611ef",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178a0067c1fa22f9328e31611ef",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "At the Graves",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:56qcBxdPzc5hHbOaRjkip8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+      },
+      "followers": {
+        "href": null,
+        "total": 55234
+      },
+      "genres": ["hardcore punk", "hardcore", "noise rock", "queercore", "riot grrrl"],
+      "href": "https://api.spotify.com/v1/artists/1Gi5tHYi0ptGG0G3tX9PkU",
+      "id": "1Gi5tHYi0ptGG0G3tX9PkU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9a70118f9e42651a79d3fcb1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051749a70118f9e42651a79d3fcb1",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1789a70118f9e42651a79d3fcb1",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Gouge Away",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:1Gi5tHYi0ptGG0G3tX9PkU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22T9Q75WaMA6qdMkyL7LdP"
+      },
+      "followers": {
+        "href": null,
+        "total": 1675
+      },
+      "genres": ["death metal", "doom metal"],
+      "href": "https://api.spotify.com/v1/artists/22T9Q75WaMA6qdMkyL7LdP",
+      "id": "22T9Q75WaMA6qdMkyL7LdP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb3167dc1c9e6d405c960539e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174b3167dc1c9e6d405c960539e",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178b3167dc1c9e6d405c960539e",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Harsh Realm",
+      "popularity": 6,
+      "type": "artist",
+      "uri": "spotify:artist:22T9Q75WaMA6qdMkyL7LdP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG"
+      },
+      "followers": {
+        "href": null,
+        "total": 22936
+      },
+      "genres": ["grindcore", "mathcore", "sludge metal", "hardcore punk"],
+      "href": "https://api.spotify.com/v1/artists/6Fbes1fH0ZDS0XGjDx2YeG",
+      "id": "6Fbes1fH0ZDS0XGjDx2YeG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50086510fce82a954f38172a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517450086510fce82a954f38172a",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17850086510fce82a954f38172a",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Cloud Rat",
+      "popularity": 25,
+      "type": "artist",
+      "uri": "spotify:artist:6Fbes1fH0ZDS0XGjDx2YeG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 23771
+      },
+      "genres": ["drone", "ambient", "glitch", "dark ambient", "experimental", "neoclassical", "idm", "minimalism"],
+      "href": "https://api.spotify.com/v1/artists/4X3dUbGsTpVH6EbxtWnj6T",
+      "id": "4X3dUbGsTpVH6EbxtWnj6T",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/64f69015a4ce6224963bcf163ef1da6f64c8d564",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/72e86ffa84a81d88e76ff075f6190e404e4cc1cc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/a2d1aa8645faab9880f8c442ad9e4285d724e83c",
+          "height": 200,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/c835832501d5e433e40d99218075ace7dd1067b9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Taylor Deupree",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:4X3dUbGsTpVH6EbxtWnj6T"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
+      },
+      "followers": {
+        "href": null,
+        "total": 60357
+      },
+      "genres": ["black metal", "avant-garde", "death metal"],
+      "href": "https://api.spotify.com/v1/artists/5zvMklMSTgoGUS9Un5domO",
+      "id": "5zvMklMSTgoGUS9Un5domO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5dac76fa5e598d0e8dfd7d0a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051745dac76fa5e598d0e8dfd7d0a",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1785dac76fa5e598d0e8dfd7d0a",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Imperial Triumphant",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:5zvMklMSTgoGUS9Un5domO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4A2P0pDxaRoEWu9fTPNXMr"
+      },
+      "followers": {
+        "href": null,
+        "total": 9921
+      },
+      "genres": ["screamo", "mathcore", "post-hardcore"],
+      "href": "https://api.spotify.com/v1/artists/4A2P0pDxaRoEWu9fTPNXMr",
+      "id": "4A2P0pDxaRoEWu9fTPNXMr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb54bb0e53e842a9a36701cba5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517454bb0e53e842a9a36701cba5",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17854bb0e53e842a9a36701cba5",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Blind Girls",
+      "popularity": 23,
+      "type": "artist",
+      "uri": "spotify:artist:4A2P0pDxaRoEWu9fTPNXMr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cuEeMltOx640cbFS3Zvka"
+      },
+      "followers": {
+        "href": null,
+        "total": 971
+      },
+      "genres": ["sludge metal", "doom metal"],
+      "href": "https://api.spotify.com/v1/artists/5cuEeMltOx640cbFS3Zvka",
+      "id": "5cuEeMltOx640cbFS3Zvka",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc0ac58eded897e0f2b709d73",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174c0ac58eded897e0f2b709d73",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178c0ac58eded897e0f2b709d73",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Lathe",
+      "popularity": 9,
+      "type": "artist",
+      "uri": "spotify:artist:5cuEeMltOx640cbFS3Zvka"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "followers": {
+        "href": null,
+        "total": 6363623
+      },
+      "genres": ["new wave", "post-punk", "gothic rock", "darkwave"],
+      "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id": "7bu3H8JO7d0UbMoVzbo70s",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174dd427c765c409ec02dc3a868",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178dd427c765c409ec02dc3a868",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "The Cure",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    }
+  ]
