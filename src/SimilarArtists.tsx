@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import spotifyProfileData from './data/StreamingHistory_music_0.json' with { type: 'json' };
+//import spotifyProfileData from './data/StreamingHistory_music_0.json' with { type: 'json' };
 import spotifyAPIData from './data/top50artists.json' with { type: 'json' };
 import { Form, Button, ListGroup, Alert } from 'react-bootstrap';
 
@@ -31,8 +31,8 @@ const SimilarArtists: React.FC = () => {
             } else {
                 if (getNew) {
                     const names = data.similarartists.artist
-                        .map((a: any) => a.name)
-                        .filter(name => !top50artists.includes(name.toLowerCase()));
+                        .map((a: { name: string; }) => a.name)
+                        .filter((name: string) => !top50artists.includes(name.toLowerCase()));
                     if (names.length > 1) {
                         setSimilarArtists(names);
                         setError(null);
@@ -41,13 +41,13 @@ const SimilarArtists: React.FC = () => {
                         setSimilarArtists([]);
                     }
                 } else {
-                    const names = data.similarartists.artist.map((a: any) => a.name);
+                    const names = data.similarartists.artist.map((a: { name: string; }) => a.name);
                     setSimilarArtists(names);
                     setError(null);
                 }
 
             }
-        } catch (err) {
+        } catch {
             setError('Failed to fetch data.');
             setSimilarArtists([]);
         }
